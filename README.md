@@ -40,4 +40,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-- [Conheça mais sobre min e meu trabalho aqui](https://crissalves.github.io/Projeto-rocketSeat/)
+- [Conheça mais sobre min e meu trabalho aqui](https://crissalves.github.io/Projeto-Devlinks/)
