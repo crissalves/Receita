@@ -25,7 +25,6 @@ Programa para estudo de css e html simples de tecnologias Web. <br/>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 
 ## 💻 Projeto
